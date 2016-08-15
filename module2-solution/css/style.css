@@ -13,6 +13,7 @@ section {
   border: 1px;
   border-color:black;
   border-style: solid;
+  border-width: thick;
   padding: 15px;
   padding-top: 30px;
   margin: 5px;
@@ -24,6 +25,7 @@ section {
   width: 100%;
 }
 
+/* Titles. */
 h1 {
   font-style:bold;
   font-size:175%;
@@ -38,6 +40,7 @@ h2.sectionTitle {
   border:1px;
   border-color: black;
   border-style: solid;
+  border-width: thick;
   border-top-style: none;
   border-right-style: none;
   position:absolute;
