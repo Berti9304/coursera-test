@@ -1,0 +1,52 @@
+
+
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  line-height: .75;
+
+}
+
+
+.food-title{
+
+  position: absolute;
+  top:20px;
+  left:10px;
+
+}
+
+
+h2{
+	margin-top: 40px;
+	margin-bottom: 50px;
+	font-style: normal;
+	font-weight: 700;
+}
+
+#nav-list a {
+  color: blue;
+  text-align: center;
+  font-weight: 500;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#large-content{
+	background-color: grey;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
